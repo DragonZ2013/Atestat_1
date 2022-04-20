@@ -1,0 +1,13 @@
+D:\firma\firma\bin\Debug\firma.exe
+D:\firma\firma\bin\Debug\firma.pdb
+D:\firma\firma\obj\x86\Debug\firma.Form1.resources
+D:\firma\firma\obj\x86\Debug\firma.Properties.Resources.resources
+D:\firma\firma\obj\x86\Debug\firma.csproj.GenerateResource.Cache
+D:\firma\firma\obj\x86\Debug\firma.exe
+D:\firma\firma\obj\x86\Debug\firma.pdb
+D:\firma\firma\bin\Debug\firma.exe.config
+D:\firma\firma\obj\x86\Debug\firma.AdaugAngajat.resources
+D:\firma\firma\obj\x86\Debug\firma.AdaugDepartament.resources
+D:\firma\firma\obj\x86\Debug\firma.csprojResolveAssemblyReference.cache
+D:\firma\firma\obj\x86\Debug\firma.StergAngajat.resources
+D:\firma\firma\obj\x86\Debug\firma.ModifAngajat.resources
